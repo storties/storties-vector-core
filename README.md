@@ -1,1 +1,1 @@
-# storties-search-ai
+# storties-vector-core
